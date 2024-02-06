@@ -44,19 +44,10 @@ cd seu_repositorio
 
 4. Insira o nome de uma cidade no campo de entrada e clique no botão de busca para obter informações sobre o clima da cidade.
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga estas etapas:
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`).
-3. Faça commit de suas alterações (`git commit -am 'Adicionar novas funcionalidades'`).
-4. Faça push para a branch (`git push origin feature/MinhaFeature`).
-5. Abra um pull request.
 
 ## Autor
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu_usuario).
+Feito com ❤️ por Kayke Costa da Silva.
 
 ## Licença
 
